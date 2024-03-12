@@ -1,0 +1,18 @@
+body {
+    background-image: url('food.jpeg');
+    background-size:cover;
+    font-size: large;
+}
+h1 {
+    color: rgb(219, 60, 219);
+    font-style: italic;
+}
+p {
+    color: white;
+}
+div {
+    column-count: 3;
+    column-gap: 10px;
+    font-size: large;
+    padding: 20px;
+}
